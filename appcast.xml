@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sed felis a
 </description>
 <pubDate>Wed, 29 Jan 2013 19:20:11 +0000</pubDate>
 <sparkle:releaseNotesLink>http://andymatuschak.org/files/notes.html</sparkle:releaseNotesLink>
-<enclosure url="https://github.com/Vinograduss/taskYandex/blob/master/pdfadesktop-1.2.0-win32.rar" sparkle:version="1.5" length="17288862" type="application/octet-stream" />
+<enclosure url="http://andymatuschak.org/files/Sparkle Test App_2.0.zip" sparkle:version="1.5" length="17288862" type="application/octet-stream" />
 </item>
 </channel>
 </rss>
